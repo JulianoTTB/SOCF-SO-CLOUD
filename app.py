@@ -4,7 +4,8 @@ import os, psutil, platform, json
 
 aluno = {
     "aluno 1": "Juliano Teles Tolomini Biasotto",
-    "aluno 2": "Geandro Marques da Silva"
+    "aluno 2": "Geandro Marques da Silva",
+    "aluno 3": "Alisson Daledone Hass de Lima"
 }
 
 
